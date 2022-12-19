@@ -1,0 +1,9 @@
+.roll-dice button{
+    align-items: center;
+    background-color: blueviolet;
+    font-size: large;
+    width: 200px;
+    height: 100px;
+    margin-left: 220px;
+    color: white;
+}
